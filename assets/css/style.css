@@ -1460,11 +1460,12 @@ section {
   font-size: 14px;
 }
 
-.team .member .social {
+.team .member .member-info .social {
   margin-top: 12px;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
+
 }
 
 .team .member .social a {
